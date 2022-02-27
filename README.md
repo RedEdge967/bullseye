@@ -1,2 +1,2 @@
-# bullseye
-A little bullseye game written in html5, css3 and javascript ~ Give a star ~
+# Bullseye game
+- Bullseye is a little and simple bullseye game written in html5, css3 and javascript.
